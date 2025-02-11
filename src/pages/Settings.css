@@ -1,0 +1,13 @@
+body.dark-theme {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  body.dark-theme input,
+  body.dark-theme select,
+  body.dark-theme textarea {
+    background-color: #555;
+    color: #fff;
+    border: 1px solid #777;
+  }
+  
